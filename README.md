@@ -1,6 +1,6 @@
 # VikingFjord whitelist frontend
 
-![image](https://github.com/user-attachments/assets/22c7099d-3d45-4864-8253-3e4512e545b2)
+![image](https://github.com/user-attachments/assets/7ce60124-2b22-4811-8d61-39fa2871227b)
 
 ## Description
 
