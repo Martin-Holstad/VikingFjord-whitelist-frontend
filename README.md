@@ -6,6 +6,8 @@
 
 Welcome to the VikingFjord Minecraft server whitelist form! This React-based project allows players to request access to the server by entering their username and the server password.
 
+[Link to VikingFjord website](https://vikingfjord.netlify.app/)
+
 ## Features
 
 ### Whitelist Form
