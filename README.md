@@ -1,10 +1,10 @@
-# VikingFjord-whitelist-frontend
+# VikingFjord whitelist frontend
 
 ![image](https://github.com/user-attachments/assets/22c7099d-3d45-4864-8253-3e4512e545b2)
 
 ## Description
 
-Welcome to the VikingFjord Minecraft server whitelist form! This React-based project allows players to request access to the server by entering their username and the server password.
+Welcome to VikingFjord whitelist frontend! This React based project allows players to request access to the server by entering their username and the server password.
 
 [Link to VikingFjord website](https://vikingfjord.netlify.app/)
 
@@ -13,7 +13,7 @@ Welcome to the VikingFjord Minecraft server whitelist form! This React-based pro
 ### Whitelist Form
 
 - Users can submit their username and server password to gain access.
-- The top bar displays the server’s online status, in-game clock, and Minecraft version.
+- The top bar displays the server’s online status, in-game clock and Minecraft version.
 
 ### Buttons
 
