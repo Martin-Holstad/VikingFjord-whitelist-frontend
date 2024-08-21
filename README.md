@@ -4,7 +4,7 @@
 
 ## Description
 
-Welcome to VikingFjord whitelist frontend! This React based project allows players to request access to the server by entering their username and the server password.
+Welcome to VikingFjord whitelist frontend! This React based project allows players to request access to the server by entering their username and server password in a whitelist form.
 
 [Link to VikingFjord website](https://vikingfjord.netlify.app/)
 
